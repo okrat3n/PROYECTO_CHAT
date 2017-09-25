@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/alumno/.android/build-cache/619e46f6dbe1b338020d5bd302324e51141054f1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/alumno/.android/build-cache/3f0e85e4d9a55ed7b2b89db9569a59ead7de53fd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/alumno/.android/build-cache/56f2eb6404c574333b5502b2c7a5ec5899189f80/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/alumno/.android/build-cache/09bc0861889f350956fde4d176ba6e4e0067f536/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/alumno/.android/build-cache/644651a5db278ef190a0f95108ebcb5c9d488849/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/alumno/.android/build-cache/fec087c4d8454cc3f4757b1c4aabf6b511de2354/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/alumno/.android/build-cache/f427c0cb02147309f34dced3c568b80592fa1b4a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/alumno/.android/build-cache/1be611f947182413ed153b34ce54c955c2ead564/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alumno/.android/build-cache/b2a6c51e1dbc86e4b105d9ad9101579451a1758e/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.alumno.proyecto_chat.MainActivity
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/alumno/.android/build-cache/619e46f6dbe1b338020d5bd302324e51141054f1/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/alumno/.android/build-cache/3f0e85e4d9a55ed7b2b89db9569a59ead7de53fd/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/alumno/.android/build-cache/56f2eb6404c574333b5502b2c7a5ec5899189f80/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/alumno/.android/build-cache/09bc0861889f350956fde4d176ba6e4e0067f536/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/alumno/.android/build-cache/644651a5db278ef190a0f95108ebcb5c9d488849/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/alumno/.android/build-cache/fec087c4d8454cc3f4757b1c4aabf6b511de2354/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/alumno/.android/build-cache/f427c0cb02147309f34dced3c568b80592fa1b4a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/alumno/.android/build-cache/1be611f947182413ed153b34ce54c955c2ead564/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alumno/.android/build-cache/b2a6c51e1dbc86e4b105d9ad9101579451a1758e/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/alumno/.android/build-cache/619e46f6dbe1b338020d5bd302324e51141054f1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/alumno/.android/build-cache/3f0e85e4d9a55ed7b2b89db9569a59ead7de53fd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/alumno/.android/build-cache/56f2eb6404c574333b5502b2c7a5ec5899189f80/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/alumno/.android/build-cache/09bc0861889f350956fde4d176ba6e4e0067f536/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/alumno/.android/build-cache/644651a5db278ef190a0f95108ebcb5c9d488849/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/alumno/.android/build-cache/fec087c4d8454cc3f4757b1c4aabf6b511de2354/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/alumno/.android/build-cache/f427c0cb02147309f34dced3c568b80592fa1b4a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/alumno/.android/build-cache/1be611f947182413ed153b34ce54c955c2ead564/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/AndroidManifest.xml:26:9-47
