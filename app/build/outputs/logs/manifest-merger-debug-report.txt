@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:3:5-47
 		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/Android
 		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
 		INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/alumno/.android/build-cache/619e46f6dbe1b338020d5bd302324e51141054f1/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/alumno/.android/build-cache/3f0e85e4d9a55ed7b2b89db9569a59ead7de53fd/output/AndroidManifest.xml:29:5-20
@@ -38,19 +38,23 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alumn
 	android:theme
 		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.alumno.proyecto_chat.MainActivity
-ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:12:9-14:20
 	android:name
 		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:12:19-47
+activity#com.example.alumno.proyecto_chat.chatActivity
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:15:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:19:27-74
 uses-sdk
 INJECTED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/AndroidManifest.xml:21:5-23:78
