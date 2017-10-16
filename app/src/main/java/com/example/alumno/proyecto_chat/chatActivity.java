@@ -2,8 +2,11 @@ package com.example.alumno.proyecto_chat;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import java.util.ArrayList;
 
 public class chatActivity extends Activity {
 
@@ -30,18 +33,43 @@ public class chatActivity extends Activity {
         LinearLayout layout_mensaje = findViewById(R.id.layMessageContainer);
         layout_mensaje.setOrientation(LinearLayout.VERTICAL);
 
-        for (int i = 0 ; i < arrayMensajes.length ; i++)
+        /*for (int i = 0 ; i < arrayMensajes.length ; i++)
         {
             msg = new TextView(this);
             msg.setTextSize(14);
             msg.setText(arrayMensajes[i].contenido + "\n"+arrayMensajes[i].fecha_hora.toString() + "\n" +arrayMensajes[i].remitente+ "\n");
             layout_mensaje.addView(msg);
-        }
+        }*/
+
+        MostrarMens();
 
 
+    }
 
+    ArrayList<ClassMensaje> listaMensajes = new ArrayList();
+    //on click que guarda el contenido de la caja en el ArrayList
+    public void botonEnviar(View v)
+    {
+        TextView mytextview = findViewById(R.id.strMessageSend);
+        ClassMensaje anyadir = new ClassMensaje(mytextview.getText().toString(),2017,10,11,"Juan");
+        listaMensajes.add(anyadir);
+        MostrarMens();
+    }
 
+    public void MostrarMens()
+    {
 
+            TextView msg = null;
+            LinearLayout layout_mensaje = findViewById(R.id.layMessageContainer);
+            layout_mensaje.setOrientation(LinearLayout.VERTICAL);
+
+            for (int i = 0 ; i < listaMensajes.size() ; i++)
+            {
+                msg = new TextView(this);
+                msg.setTextSize(14);
+                msg.setText(listaMensajes.get(i).getContenido() + "\n"+listaMensajes.get(i).getFecha_hora().toString() + "\n" +listaMensajes.get(i).getRemitente()+ "\n");
+                layout_mensaje.addView(msg);
+            }
 
     }
 }

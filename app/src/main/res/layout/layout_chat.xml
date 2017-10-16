@@ -86,7 +86,9 @@
             android:layout_marginLeft="12dp"
             android:layout_marginTop="20dp"
             android:layout_weight="0.5"
-            android:src="@android:drawable/ic_menu_send" />
+            android:src="@android:drawable/ic_menu_send"
+            android:onClick="botonEnviar"/>
+
     </LinearLayout>
 
 </LinearLayout>
