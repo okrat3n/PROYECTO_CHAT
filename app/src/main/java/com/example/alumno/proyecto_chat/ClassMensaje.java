@@ -11,11 +11,13 @@ public class ClassMensaje {
     public String contenido;
     public Date fecha_hora;
     public String remitente;
+    public String nameUser;
 
-    public ClassMensaje(String contenido, int anyo, int mes, int dia, String remitente) {
+    public ClassMensaje(String contenido, int anyo, int mes, int dia, String remitente, String nameUser) {
         this.contenido = contenido;
         this.fecha_hora = new Date(anyo, mes, dia);
         this.remitente = remitente;
+        this.nameUser = nameUser;
     }
 
     public String getContenido() {
