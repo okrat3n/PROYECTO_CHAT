@@ -1,5 +1,7 @@
 package com.example.alumno.proyecto_chat;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
@@ -9,15 +11,24 @@ import java.util.Date;
 public class ClassMensaje {
 
     public String contenido;
-    public Date fecha_hora;
+    public String fecha_hora;
     public String remitente;
-    public String nameUser;
+    public String tel_destinatario;
 
-    public ClassMensaje(String contenido, int anyo, int mes, int dia, String remitente, String nameUser) {
+    public ClassMensaje(String contenido, String fecha_hora, String remitente, String tel_destinatario) {
         this.contenido = contenido;
-        this.fecha_hora = new Date(anyo, mes, dia);
+        this.fecha_hora = fecha_hora;
         this.remitente = remitente;
-        this.nameUser = nameUser;
+        this.tel_destinatario = tel_destinatario;
+    }
+
+    public ClassMensaje(String contenido, String remitente, String tel_destinatario) {
+        this.contenido = contenido;
+        Date actual = new Date();
+        DateFormat df = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss");
+        this.fecha_hora = df.format(actual).toString();
+        this.remitente = remitente;
+        this.tel_destinatario = tel_destinatario;
     }
 
     public String getContenido() {
@@ -28,11 +39,11 @@ public class ClassMensaje {
         this.contenido = contenido;
     }
 
-    public Date getFecha_hora() {
+    public String getFecha_hora() {
         return fecha_hora;
     }
 
-    public void setFecha_hora(Date fecha_hora) {
+    public void setFecha_hora(String fecha_hora) {
         this.fecha_hora = fecha_hora;
     }
 

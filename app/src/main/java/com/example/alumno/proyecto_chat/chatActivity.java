@@ -1,6 +1,7 @@
 package com.example.alumno.proyecto_chat;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
@@ -14,6 +15,7 @@ public class chatActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout_chat);
+        Intent intent = getIntent();
 
         //ClassMensaje[] classMensajes = new ClassMensaje[5];
 
@@ -41,7 +43,7 @@ public class chatActivity extends Activity {
             layout_mensaje.addView(msg);
         }*/
 
-        MostrarMens();
+        MostrarMens(0);
 
 
     }
@@ -52,36 +54,37 @@ public class chatActivity extends Activity {
     public void botonEnviar(View v)
     {
         TextView mytextview = findViewById(R.id.strMessageSend);
-        ClassMensaje anyadir = new ClassMensaje(mytextview.getText().toString(),2017,10,11,"Juan","Álvaro");
+        ClassMensaje anyadir = new ClassMensaje(mytextview.getText().toString(),"67755999","699876678");
         listaMensajes.add(anyadir);
-        MostrarMens();
+        MostrarMens(listaMensajes.size()-1);
     }
     //Muestra los mensajes enviados
-    public void MostrarMens()
+    public void MostrarMens(int indexmensaje)
     {
 
-            /*TextView msg = null;
+            TextView msg = null;
             LinearLayout layout_mensajes = findViewById(R.id.layMessageContainer);
             layout_mensajes.setOrientation(LinearLayout.VERTICAL);
 
-            for (int i = 0 ; i < listaMensajes.size() ; i++)
+            for (int i = indexmensaje ; i < listaMensajes.size() ; i++)
             {
                 msg = new TextView(this);
                 msg.setTextSize(14);
                 msg.setText(listaMensajes.get(i).getContenido() + "\n"+listaMensajes.get(i).getFecha_hora().toString() + "\n" +listaMensajes.get(i).getRemitente()+ "\n");
                 layout_mensajes.addView(msg);
-            }*/
-            layout_mensaje();
+            }
+            //layout_mensaje();
 
     }
 
-    public void layout_mensaje()
+    /*public void layout_mensaje()
     {
         LinearLayout layout_mensaje = findViewById(R.id.layMessageContainer);
         layout_mensaje.setOrientation(LinearLayout.VERTICAL);
         layout_mensaje.setMinimumWidth(50);
         layout_mensaje.setMinimumHeight(50);
         layout_mensaje.setBackgroundColor(300);
+
         TextView msg = null;
         msg = new TextView(this);
         msg.setText("Hola");
@@ -89,7 +92,7 @@ public class chatActivity extends Activity {
         layout_mensaje.addView(msg);
 
 
-    }
+    }*/
 }
 
 

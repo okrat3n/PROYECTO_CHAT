@@ -37,14 +37,14 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alumn
 		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
 		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.example.alumno.proyecto_chat.MainActivity
+activity#com.example.alumno.proyecto_chat.chatActivity
 ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:12:9-14:20
 	android:name
 		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:12:19-47
-activity#com.example.alumno.proyecto_chat.chatActivity
+activity#com.example.alumno.proyecto_chat.ChatsActivity
 ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:15:19-47
+		ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:15:19-48
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN

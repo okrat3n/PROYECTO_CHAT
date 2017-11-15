@@ -4,28 +4,8 @@
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/layout_inicio.xml",
-        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/layout_inicio.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/notification_action.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
@@ -48,40 +28,16 @@
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/notification_template_lines_media.xml"
-    },
-    {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/activity_main.xml"
-    },
-    {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/layout_chats.xml",
-        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/layout_chats.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_dialog_title_material.xml"
     },
     {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
@@ -92,56 +48,20 @@
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_action_mode_bar.xml"
-    },
-    {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/layout_configuracion.xml",
-        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/layout_configuracion.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_screen_content_include.xml"
-    },
-    {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/contactos.xml",
-        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/contactos.xml"
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/plantilla_contactos.xml",
+        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/plantilla_contactos.xml"
     },
     {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
@@ -160,6 +80,102 @@
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_select_dialog_material.xml"
     },
     {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/layout_inicio.xml",
+        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/layout_inicio.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/plantilla_contactos_chats.xml",
+        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/plantilla_contactos_chats.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/layout_chats.xml",
+        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/layout_chats.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/layout_configuracion.xml",
+        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/layout_configuracion.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/layout_contactos.xml",
+        "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/layout_contactos.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/layout_chat.xml",
         "source": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/src/main/res/layout/layout_chat.xml"
     },
@@ -172,15 +188,7 @@
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/home/alumno/AndroidStudioProjects/PROYECTO_CHAT/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/alumno/.android/build-cache/83a3a74d1176e0a736b4c6085ddeb671dfe90f54/output/res/layout/abc_search_view.xml"
     }
 ]
